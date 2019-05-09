@@ -1,0 +1,32 @@
+
+*{
+  background: white;
+
+}
+
+.centrar{
+  text-align: center;
+}
+
+
+
+.header{
+  padding-top: 25px;
+  padding-right: 15px;
+}
+
+.header nav{
+  float:right;
+}
+
+.lenguage-bar{
+  text-align: center;
+}
+
+.maincontainer{
+  text-align: right;
+}
+
+.footer{
+  color: blue;
+}
